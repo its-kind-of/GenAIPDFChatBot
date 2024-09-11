@@ -1,0 +1,58 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.directory
+
+# Compiled binaries
+*.pyc
+*.so
+*.o
+*.dll
+*.elf
+
+# C/C++/Objective-C files
+*.a
+*.lib
+
+# Java class files
+*.class
+
+# Python specific
+__pycache__/
+.pytest_cache/
+
+# Node.js specific
+node_modules/
+npm-debug.log
+
+# Visual Studio specific
+.vs/
+*.suo
+*.user
+*.csproj.user
+*.vcxproj.user
+
+# IntelliJ IDEA specific
+.idea/
+
+# Vim specific
+.swp
+.bak
+.cache
+
+# Sublime Text specific
+*.sublime-project
+*.sublime-workspace
+
+# Atom specific
+.atom/
+
+# Miscellaneous
+*.log
+*.pid
+*.tmp
+*.swp
+
+# Environment folder
+env/
